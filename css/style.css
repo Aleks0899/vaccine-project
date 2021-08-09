@@ -1,0 +1,41 @@
+*
+{
+    margin:0;
+    padding: 0;
+}
+.carousel-item
+{
+    height: 720px;
+    background: dimgrey;
+    color:#ffffff;
+    background: black;
+}
+.slideshow1
+{
+    position: absolute !important;
+    top: 0 !important;
+    right: 0 !important;
+    left: 0 !important;
+    bottom: 0 !important;
+    padding-bottom: 100px !important;
+    margin-top: 400px;
+    background-position: center !important;
+    background-size: cover !important;
+
+}
+.carousel-item h1
+{
+    color: #3a3a3a;
+}
+.card_box1
+{
+    float: left !important;
+    margin-top: 20px;
+}
+.news_bar
+{
+    justify-content: center;
+    display: justify;
+    margin-right: 5px;
+}
+
